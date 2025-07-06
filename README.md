@@ -53,7 +53,7 @@ npm start
 4. Start the development server
 npm start
 
-App will run at http://localhost:3000.
+App will run at http://localhost:5137.
 
 📁 Folder Structure
 client/
